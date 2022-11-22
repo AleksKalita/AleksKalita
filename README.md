@@ -1,7 +1,7 @@
 [![Header](https://github.com/AleksKalita/AleksKalita/blob/d59d6a33188304e6c92f9b72d5025b49cf537f97/assets/Frame%20635%20(3).png)]
 ## I'm a QA Engineer.  
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Comming soon]
 
 
 ### Language and Tools
